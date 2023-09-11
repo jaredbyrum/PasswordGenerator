@@ -18,4 +18,4 @@ Solutions to porblems - Stack Overflow
 ![Screenshot (18)](https://github.com/jaredbyrum/PasswordGenerator/assets/141647333/5161fdc0-92e7-43f0-b6dc-096d8ded10bd)
 
 # Live URL 
-jaredbyrum.github.io/PasswordGenerator/
+https://jaredbyrum.github.io/PasswordGenerator/
