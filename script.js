@@ -36,7 +36,7 @@ function getResults() {
     chars += strings.symbols;
   }
   //if all false rejects attempt and restarts app
-  if (!lowerRe, !upperRe, !numberRe, !symbolRe) {
+  if (!lowerRe && !upperRe && !numberRe&& !symbolRe) {
     alert("Please choose at least one character type and try again.");
     return false;
   } else {
